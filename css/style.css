@@ -563,6 +563,11 @@ a {
     .advantages-box--right .advantages-box__text {
         padding-left: 0;
     }
+    .title-slider__title {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 5px;
+    }
 }
 
 @media(min-width: 571px) {
