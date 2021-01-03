@@ -264,7 +264,7 @@ a {
 .reviews__title {
     color: #fff;
     margin: 0 auto 48px;
-    min-width: 384px;
+    max-width: 450px;
 }
 
 .reviews__items {
@@ -483,7 +483,6 @@ a {
         position: absolute;
         top: 120px;
         width: 100%;
-        display: block;
         left: 0;
         text-align: center;
         background-color: #1a50a8;
